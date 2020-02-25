@@ -1,0 +1,24 @@
+body {
+  background-color: moccasin;
+  color: rebeccapurple;
+  /* color: #BADA55; */
+}
+
+h1 {
+  color: #DEFEC8;
+  font-size: 24px;
+  text-decoration: underline;
+}
+
+.content {
+  border: 3px dashed #F00B42;
+  border-radius: 15px;
+}
+
+.content p {
+  padding-left: 20px;
+}
+
+ul {
+  margin: 20px;
+}
